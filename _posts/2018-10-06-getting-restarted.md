@@ -3,11 +3,11 @@ layout: post
 title: Getting (re)Started
 ---
 
-So, for a while now I've had this cool idea to make a live git visualizer based on the way I represent the different git environments & behavior in my "Git-ing Out of your Git Messes" talk, you can get a sense for the general idea in this video:
+So, for a while now I've had this cool idea to make a live git visualizer based on the way I represent the different git environments & behavior in my talk [Git-ing Out of your Git Messes](https://www.slideshare.net/KatrinaSylorMiller/giting-out-of-your-git-messes-fluent-conf-2017). You can get a sense for what I'm talking about in this video I made from some of the slides in that presentation:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mv1UOku0yO8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-The idea is that you'd be able to run git commands in the terminal/command line on your local repo, and a web app would live update with a visual indicator of what the commands have done to change the state of your local and remote environments. I've had multiple people tell me that this mental model (which I myself discovered at [this awesome git cheat sheet visualizer from NDP Software](http://ndpsoftware.com/git-cheatsheet.html)) has helped them to finally understand what is happening under the hood in git, so I would love to share this with more people! 
+The general idea is that you'd be able to run git commands in the terminal/command line on your local repo, and a web app would live update with a visual indicator of what the commands have done to change the state of your local and remote environments. I've had multiple people tell me that this mental model (which I myself discovered at [this awesome git cheat sheet visualizer from NDP Software](http://ndpsoftware.com/git-cheatsheet.html)) has helped them to finally understand what is happening under the hood in git, so I would love to share it more widely!
 
 ## But how?
 

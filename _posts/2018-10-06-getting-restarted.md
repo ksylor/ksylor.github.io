@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Getting (re)Started
-date: 2018-10-06
 ---
 
 # Getting (re)Started

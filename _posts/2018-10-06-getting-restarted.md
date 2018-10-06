@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Getting (re)Started
-Author: Katie
+Author: @ksylor
 ---
 
 So, for a while now I've had this cool idea to make a live git visualizer based on the way I represent the different git environments & behavior in my "Git-ing Out of your Git Messes" talk, you can get a sense for the general idea in this video:
 
-[![Git Live Viewer general idea](http://img.youtube.com/vi/mv1UOku0yO8/0.jpg)](http://www.youtube.com/watch?v=mv1UOku0yO8 "Git Live View general idea")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mv1UOku0yO8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The idea is that you'd be able to run git commands in the terminal/command line on your local repo, and a web app would live update with a visual indicator of what the commands have done to change the state of your local and remote environments. I've had multiple people tell me that this mental model (which I myself discovered at [this awesome git cheat sheet visualizer from NDP Software](http://ndpsoftware.com/git-cheatsheet.html)) has helped them to finally understand what is happening under the hood in git, so I would love to share this with more people! 
 

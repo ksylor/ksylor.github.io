@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Getting (re)Started
+Author: Katie
 ---
-
-# Getting (re)Started
 
 So, for a while now I've had this cool idea to make a live git visualizer based on the way I represent the different git environments & behavior in my "Git-ing Out of your Git Messes" talk, you can get a sense for the general idea in this video:
 

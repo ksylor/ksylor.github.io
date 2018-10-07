@@ -3,6 +3,7 @@ layout: default
 title: Getting (re)Started
 ---
 
+# Getting (re)Started
 So, for a while now I've had this cool idea to make a live git visualizer based on the way I represent the different git environments & behavior in my talk [Git-ing Out of your Git Messes](https://www.slideshare.net/KatrinaSylorMiller/giting-out-of-your-git-messes-fluent-conf-2017). You can get a sense for what I'm talking about in this video I made from some of the slides in that presentation:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mv1UOku0yO8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

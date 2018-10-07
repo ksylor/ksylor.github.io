@@ -2,6 +2,11 @@ remote_theme: chesterhow/tale
 
 paginate:     5
 
+# Author
+author:
+  name:         Katie Sylor-Miller
+  url:          http://sylormiller.com
+
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme

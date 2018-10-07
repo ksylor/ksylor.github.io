@@ -26,3 +26,7 @@ And that imposter syndrome? Well, my 7 year old daughter suffers from perfection
 So, deep breath...
 
 Hi, my name is Katie, I'm a Staff Engineer, and I don't really know a whole bunch of modern web development practices, but I'm going to learn. I hope you'll share this journey with me.
+
+
+
+Check out the next post, [Part 1 - Setup](https://ksylor.github.io/2018/10/06/part-1-setup.html).

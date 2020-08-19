@@ -2,6 +2,8 @@
 layout: post
 title: Bullet journaling for the rest of us
 ---
+
+# Bullet journals are not what you think
 For the last few years, I've tried a whole bunch of different methods to try and organize my neverending to-do list with no luck, I never felt like I was making any progress. I tried just about everything digitial my app download history is littered with whatever the hottest app was - evernote, clear, todoist, notion, but every time I would try to change up my process and move to something digital, I failed, because I was fighting against decades of writing everything down. Something I've continued to do is to write things down! I generally take notes in most meetings by hand, I have always had to do lists written down, and the friction of transferring things to something digital just never clicked for me. I also tried various kinds of pre-formatted planners, meeting notes notebooks with separate to-do list notebooks, I have stacks and stacks of notebooks full of my illegible handwriting. 
 
 So, about a month ago at this point, I re-discovered the bullet journal. Now, if you are like me, then you've got a misconception about the bullet journal method. You've googled it and the results are overflowing with "BuJo" - gorgeously designed instagrammable spreads with perfect penmanship, fancy notebooks adorned with washi tape, habit trackers, study guides, inspirational quotes, shopping lists, "how to acheive your goals!" etc. when all you want to do is learn a system to help wrangle the chaos in your life & work. Well, you don't have to do those things! Ryder Carrol's original system is simple. to be successful, I focused on that, but it was surprisingly hard to find real-world stories from folks who use the bullet journal, particularly to help wrangle their job as a software engineer. So, hopefully this is the post that I was looking for for someone else. And you don't need fancy supplies or artistic talent, I promise! 
@@ -10,15 +12,14 @@ The beauty of the bullet journal system is that it's completely flexible. Becaus
 
 Also, I decided to combine all of my life into a single book. Some folks might have separate places for work and life, but I really needed one notebook to rule them all.
 
-## How to get started
-
+# How to get started
 Step 0 is to have an attitude of just going for it without judgement. You don't have to be perfect, you can cross things out, cut out pages that don't work, try something new, throw away the things that don't work, and add things that do work for you! It's beauty is it's flexibility. As you will see, my usage changed over time for the first month, and it will continue to change as I use it longer-term. I'd also recommend that you visit bulletjournal.com - the official home of the creator behind the system, and watch the getting started videos there. I'll re-iterate some of the steps below, but with a focus on how I use them.
 
 ## Set up your notebook
 I sat down in front of the TV one evening and cross-referenced the main site and one or two other "getting started" posts. It took me about an hour (most of which was spent filling in dates on the future log), but you can do it in a much shorter time if you want to get going quickly.
 
 1. **Grab a notebook, any blank notebook will do!** 
-It's helpful if your notebook is small enough to be carried around easily - A5 (approx 5" x 8.5")is a good balance of space to write and carryability. Dotted or grid pages are helpful for drawing straight lines up and down, and pre-numbered pages will cut out a step, but neither are a requirement. Same with bookmarks, if it has 1 or more built-in ribbon bookmarks, great. If not, you can cut some ribbon and glue it in or use sticky notes.
+It's helpful if your notebook is small enough to be carried around easily - A5 (approx 5" x 8.5") is a good balance of space to write and carryability. Dotted or grid pages are helpful for drawing straight lines, and pre-numbered pages will cut out a step, but neither are a requirement. Same with bookmarks, if it has 1 or more built-in ribbon bookmarks, great. If not, you can improvise.
 
 I dove into my trove of conference swag notebooks and used this one from Smashing Conference. It had pre-numbered, dotted pages, and a single bookmark. As you can see from the photos, I made a few simple modifications over the course of the month - I superglued a second ribbon inside the back cover, and I used some wide elastic leftover from a tutu-making project to add a pen holder loop. 
 
@@ -62,12 +63,22 @@ I originally had two pages, one for work and one for home, but that was almost t
 7. **Start a Brain Dump page** (note this isn't "classic" bullet journal but something I added, so you can totally skip this step or come back to it)
 When I first started to fill out my Journal I was also in the middle of reading GTD and decided to start with the practice of getting everything that was in my head out and onto the page so that I could "close the open loops" in my brain. To that end, I filled out this page with all of the random things that were swirling around in my head in a stream of conciousness without worrying about home vs. work or long vs. short term or big vs. small tasks, I just threw everything on the page. This was really helpful for filling out that initial Monthly task list. And of course, add this page(s) to your index! 
 
-I ended up doing another brain dump exercise later in the month where I specifically went through my notebooks from the last few months and pulled out any work ideas or projects that I had thought of that related to Web Performance. I then copied all of those to a Google doc and added more details about each project along with a t-shirt size that could form a foundation for our new Perf team's roadmap.
-
 8. **Start your Daily Log**
 This is really the core of the whole system and is where you will use those symbols from the key the most. Start each day by writing a date header for today - I usually do it in the format of `AUG 18 - TUES`, and then I've landed on drawing a simple horizontal line with a strip of pink highlighter for visual differentiation. Then, start adding in some notes for today - don't be afraid to add bullets for things that you've already done or meetings you had and cross them out! Don't pre-generate your daily sections, but fill out the day and then when the day is done, you can add the next day on the next line, taking up as much or as little room as you need.  
 
-I think at first, getting the hang of the daily log was the biggest challenge for me. I'll go into my process more in depth in the next section, but the system I've landed on to organize my daily logs is that I list out my important to-dos and appointments for the day at the beginning of that day's section using ALL CAPS so that each fits on one line. Then, I will switch to note-taking mode, where I'm not exactly "rapid logging" everything, but combining bullets and longer-form notes in a looser style and with my bad penmanship in all it's glory. Usually I will nest notes for a meeting or topic under a header, and there have been cases where I've captured enough notes and/or thoughts that I want to be able to refer back to it later, so I added the header as an entry in my index, which brings me to step 9.
+## Process
+Now that your notebook is all set up, let's talk about the process of using this thing you've just created. There are a few things that I've found have been helpful as I've developed my process. 
 
-9. **Collections**
-Collections are another part of bullet journaling that can feel intimidating, especially if you spend time on instagram & pinterest and see the overwhelming list of ideas out there. I've found it helpful to think of a collection as a page full of stuff that you want to add to your index and reference back to. So, it can be something specific like a brain dump, or a project plan, or a list of books you want to read, or something organic like notes from a meeting that you want to save or the notes that formed the basis of this blog post were a collection! 
+1. **Daily Logging**
+I think at first, getting the hang of the daily log was the biggest challenge for me and went through some fits and starts. The system I've landed on to organize my daily logs is that I list out my important to-dos and appointments for the day at the beginning of that day's section using ALL CAPS so that each fits on one line. Then, I will switch to note-taking mode, where I'm not exactly "rapid logging" everything, but combining bullets and longer-form notes in a looser style and with my bad penmanship in all it's glory. Usually I will nest notes for a meeting or topic under a header, and there have been cases where I've captured enough notes and/or thoughts that I want to be able to refer back to it later, so I added the header as an entry in my index. 
+
+Really the foundation of it all is to write everything down. I mean EVERYTHING. By far the best part of the bullet journal is that it's one notebook to rule them all, no more multiple notebooks and pads and sticky notes scattered around my house and office. Put everything in one place so you can start to trust your journal as your external brain - no worries about oh is this the right place to write this or the right format, just write it down so you don't lose it.
+
+2. **A note on Collections**
+Collections are another part of bullet journaling that can feel intimidating, especially if you spend time on instagram & pinterest and see the overwhelming list of ideas out there. I've found it helpful to think of a collection as just a page full of stuff that you want to reference back to. So, it can be something specific like a brain dump, or a project plan, or a list of books you want to read, or something organic like notes from a meeting that you want to save or the notes that formed the basis of this blog post were a collection! 
+
+3. **Migration**
+Either first thing in the morning or in the evening as I'm winding down my work day, I will go back and look through my log from the day (or previous day if it's the next morning) and cross off any bullets that I completed, then move anything that I didn't complete (and stil think is a priority) to the following day. Technically you are supposed to put a little migrated arrow to show that you moved it to the next day, but I'm not always great at that! 
+
+If there is something that I need to de-priorize I will move it into the monthly task list. I'll also take a look at my monthly log to see if there are any upcoming deadlines or important meetings that I need to start working on or preparing for. I'll also scan the monthly task list to see if there are any other tasks to pull into my day. 
+

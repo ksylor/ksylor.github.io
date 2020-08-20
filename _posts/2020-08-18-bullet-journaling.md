@@ -13,7 +13,7 @@ The beauty of the bullet journal system is that it's completely flexible, but no
 Also, I decided to combine all of my life into a single book. Some folks might have separate places for work and life, but I really needed one notebook to rule them all.
 
 # Getting Started
-I found the easiest way to get started was to just grab a notebook and do it! Have an attitude of just going for it without judgement. You don't have to be perfect, you can cross things out, cut out pages that don't work, try something new, throw away the things that don't work, and add things that do work for you! It's beauty is it's flexibility. As you will see, my usage changed over time for the first month, and it will continue to change as I use it longer-term and figure out ways to make it work for me. I'd also recommend that you visit bulletjournal.com - the official home of the creator behind the system, and watch the getting started videos there. I'll re-iterate some of the steps below, but with a focus on how I use them.
+I found the easiest way to get started was to just grab a notebook and do it! You don't need artistic talent and you don't have to be perfect - you can cross things out, cut out pages that don't work, try something new, throw away the things that don't work, and add things that do work for you! The beauty of the system is in it's flexibility. As you will see, my usage changed over time for the first month, and it will continue to change as I use it longer-term and figure out ways to make it work for me. I'd also recommend that you visit https://bulletjournal.com/pages/learn - the official home of the creator behind the system, and watch the getting started videos there. I'll re-iterate some of the steps below, but with a focus on how I use them.
 
 ## Set up your notebook
 I sat down in front of the TV one evening and cross-referenced bulletjournal.com and one or two other "getting started" posts I had found that detailed journal setup. It took me about an hour (most of which was spent filling in birthdays & holidays on the future log), but you can do it in a much shorter time if you want to get going quickly.
@@ -24,10 +24,10 @@ It's helpful if your notebook is small enough to be carried around easily - A5 (
 I dove into my trove of conference swag notebooks and used this one from Smashing Conference, thanks Vitaly! It had pre-numbered, dotted pages, and a single bookmark. As you can see from the photos, I made a few simple modifications over the course of the month - I superglued a second ribbon inside the back cover, and I used some wide elastic leftover from a tutu-making project to add a pen holder loop. 
 
 2. **Grab a writing implement and number the pages of your notebook**
-I lucked out and had a pre-numbered notebook, if you don't have one, don't let that friction stop you! For writing implements, you don't need fancy pens, whatever you have at hand or even a pencil are perfectly fine! I like the feel of pen, so I grabbed one of my trusty blue pilot G-2 and dove in. At some point I misplaced my blue pen and switched to black. No big deal! 
+I lucked out and had a pre-numbered notebook, if you don't have one, don't let that friction stop you! For writing implements, you don't need fancy pens, whatever you have at hand or even a pencil are perfectly fine! I like the feel of pen, so I grabbed one of my trusty blue pilot G-2 and dove in. At some point I misplaced my blue pen and switched to black. Later, I found a highlighter and started using that to add a bit more visual pop, but you certainly don't need one.
 
 3. **Add a Key of symbols to the first page as a reference**
-This is something I found online as an extension of the core system and I've found it super helpful. As you can see from all the scribbles and crossing out, the symbols I've used have changed over time. But I use the classic "Rapid Logging" symbols from the original system, and I'd def suggest that you visit the main site to learn more about those. I've added a few of my own, feel free to use them or create your own based on your needs.
+This is a suggestion I found online as an extension of the core system and I think it's super helpful for a beginner. As you can see from all the scribbles and crossing out, the symbols I've used have changed over time. But, at base, I use the classic "Rapid Logging" symbols from the original system, and I've added (and subtracted) a few of my own. feel free to use them or create your own based on your needs.
 
 (dot) = task
 (dash) = note
@@ -37,9 +37,9 @@ This is something I found online as an extension of the core system and I've fou
 (lt) = scheduled
 (strikethrough) = irrelevant
 (caret down) = delegated
-(clock) = due date
 
 signifiers:
+(clock) = due date
 (asterik) = important
 (question) = needs decision
 (lighbulb) = idea
@@ -64,7 +64,7 @@ I originally had two pages, one for work and one for home, but that was almost t
 When I first started to fill out my Journal I was also in the middle of reading GTD and decided to start with the practice of getting everything that was in my head out and onto the page so that I could "close the open loops" in my brain. To that end, I filled out this page with all of the random things that were swirling around in my head in a stream of conciousness without worrying about home vs. work or long vs. short term or big vs. small tasks, I just threw everything on the page. This was really helpful for filling out that initial Monthly task list. And of course, add this page(s) to your index! 
 
 8. **Start your Daily Log**
-This is really the core of the whole system and is where you will use those symbols from the key the most. Start each day by writing a date header for today - I usually do it in the format of `AUG 18 - TUES`, and then I've landed on drawing a simple horizontal line with a strip of pink highlighter for visual differentiation. Then, start adding in some notes for today - don't be afraid to add bullets for things that you've already done or meetings you had and cross them out! Don't pre-generate your daily sections, but fill out the day and then when the day is done, you can add the next day on the next line, taking up as much or as little room as you need.  
+This is really the core of the whole system and is where you will use those symbols from the key the most. Start each day by writing a date header for today - I usually do it in the format of `AUG 18 - TUES`. I tried some different ways to visually highlight the day header, but I've landed on drawing a simple horizontal line with a little strip of pink highlighter, which is about as fancy as I get. Then, start adding in some notes for today - don't be afraid to add bullets for things that you've already done or meetings you had and cross them out! Don't pre-generate your daily sections, but fill out the day and then when the day is done, you can add the next day on the next line, taking up as much or as little room as you need.  
 
 ## Process
 Now that your notebook is all set up, let's talk about the process of using this thing you've just created. There are a few things that I've found have been helpful as I've developed my process. 

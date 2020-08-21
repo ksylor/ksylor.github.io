@@ -2,17 +2,7 @@
 layout: post
 title: Bullet journals for the non-artistic
 --
-
-I have a confession to make: I am competely and utterly incapable of using any kind of digital notetaking or productivity software. My purchase history is littered with the ghosts of every hot todo app - Evernote, Clear, Todoist, Notion, Omnifocus (to name just a few) - I never managed to use any of them for more than a day or two, they just never clicked. For a long time, I saw this inability to "just get organized" as a failure, but looking back, digital methods never worked because I have been and always will be an inveterate note-taker. I have stacks of notebooks full of prolific notes for classes, conference talks, trainings, and meetings. I start every architecture document, every system diagram, every API design on paper first. So, when I started to get more serious about finding methods to help tame my seemingly neverending to-do list, I knew I had to find something that worked with my nature, not against it.
-tried various kinds of pre-formatted planners, meeting notes notebooks with separate to-do list notebooks, I have stacks and stacks of notebooks full of my illegible handwriting. 
-
-So, about a month ago at this point, I re-discovered the bullet journal. Now, if you are like me, then you've probably got a misconception about the bullet journal method. You've googled it and the results are overflowing with "BuJo" - gorgeously designed instagrammable spreads with perfect penmanship, notebooks adorned with washi tape, full of habit trackers, study guides, inspirational quotes, shopping lists, "how to acheive your goals!" etc. when all you want to do is learn a system to help wrangle the chaos in your life & work. Well, you don't have to do those things! Ryder Carrol's original system is simple. to be successful, I focused on that, but it was surprisingly hard to find real-world stories from folks who use the bullet journal, particularly to help wrangle their job as a software engineer. So, hopefully this is the post that I was looking for for someone else. And you don't need fancy supplies or artistic talent, I promise! 
-
-The beauty of the bullet journal system is that it's completely flexible, but not totally structureless. You start with a blank page and then add your own dates or lines or whatever to it, there is no guilt that you missed a page or that you didn't fill out the calendar for that day or that the kinds of notes you want to take don't fit into the structure of the page in front of you. But, there's _just enough_ structure to it that you don't feel like you are endlessly circling without moving forward in tackling your to-do list. And, the best part is that you can start on any day you like, no worries about buying a planner for the year and leaving multiple days or months blank (the very thought of that gives me anxiety!).
-
-Also, I decided to combine all of my life into a single book. Some folks might have separate places for work and life, but I really needed one notebook to rule them all
-
-GTD 
+[introduction]
 
 # Getting Started
 
@@ -28,7 +18,7 @@ Any blank notebook will do! It's helpful if your notebook is small enough to be 
 
 [photo of notebook cover]
 
-I dove into my treasure trove of conference swag and chose an A5 sized notebook from Smashing Conference that has pre-numbered, dotted pages, and a single bookmark. As you can see from the photos, I made a few simple modifications over the course of the month - I superglued a second ribbon inside the back cover, and I used some elastic leftover from a tutu-making project to sew a pen holder loop & superglued that in too. 
+When I started, I dove into my treasure trove of conference swag and chose an A5 sized notebook from Smashing Conference that has pre-numbered, dotted pages, and a single bookmark. As you can see from the photos, I made a few simple modifications over the course of the month - I superglued a second ribbon inside the back cover, and I used some elastic leftover from a tutu-making project to sew a pen holder loop & superglued that in too. 
 
 For writing implements, any pen or pencil is great! I started out with a blue pen, misplaced that, and switched to black. I have been adding in some highlighters to help with visual "pop" and easier scannability, but they definitely are not required. 
 
@@ -89,9 +79,9 @@ This is really the core of the whole system and is where you will use those symb
 [photo of daily log page]
 
 # My Process
-Now that your notebook is all set up, let's talk about the process of using this thing you've just created. This was one of the harder things to learn about beforehand, which was super frustrating. I wanted to know the exact details of when and how other people used this system in real life and work!
+Now that your notebook is all set up, let's talk about the process of using this thing you've just created. This was one of the harder things to learn about beforehand, which was super frustrating. I wanted to know the exact details of when and how other people used this system in real life! 
 
-Really, what I've learned is that the foundation of the Bullet Journal system is to write everything down. I mean EVERYTHING. By far the biggest improvement it's made to my productivity is that it's one notebook to rule them all, no more multiple notebooks and pads and sticky notes scattered around my house and office. Put everything in one place so you can start to trust your journal as your external brain - something that the author of GTD calls "closing the open loops". If you have endless tasks and projects swirling around your brain, then you are expending valuable mental energy keeping those loops open. Writing things down in a system that you trust allows you to "close the loop" and use your brainpower for getting things done instead of endless worrying.
+Really, what I've learned is that the foundation of the Bullet Journal system is to write everything down. I mean EVERYTHING. By far the biggest improvement it's made to my productivity is that it's one notebook to rule them all, no more multiple notebooks and pads and sticky notes scattered around my house and office. Put everything in one place so you can start to trust your journal as your external brain - something that the author of GTD calls "closing the open loops". If you have endless tasks and projects swirling around your brain, then you are expending valuable mental energy keeping those "loops" open. Writing things down in a system that you trust allows you to "close the loop" and use your brainpower for getting things done instead of endless circling around the things left undone.
 
 1. **Daily Logging**
 At first, getting the hang of the Daily Log was the biggest challenge for me and I definitely went through some fits and starts while I figured out how to effectively use it. The system I've landed on to organize my Daily Logs is that I list out my important to-dos and appointments for the day at the beginning of that day's section using ALL CAPS so that each fits on one line and stands out a bit. Then, I will switch to note-taking mode, where I'm not exactly "rapid logging" everything, but combining bullets and longer-form notes in a looser style. Usually I will nest notes for a meeting or topic under a less visually strong header than the daily divider, and just take notes as I always have. In cases where I've captured enough important notes that I want to be able to refer back to that meeting, I just add the header & page number as a new "collection" entry in my index.  
@@ -113,13 +103,16 @@ At the end of the month, I set aside some extra time to setup a new Monthly Log 
 6. **Navigating with Bookmarks**
 I started out with one bookmark that I used to mark my current page. That worked great for the first month, but when I got to the second month and the monthly log was harder to find, I added a second bookmark so that I could just leave one on the Monthly Log for the current month, and use the other to mark my current page. So, I'd recommend if you have 0-1 built-in bookmarks that you superglue some ribbons to the cover/spine or use sticky note(s) to mark both pages.  
 
+7. **Keeping it going**
+
 # What I'm still figuring out
+While I absolutely love my Bullet Journal so far, I've found that one of the missing pieces in the "classic" system is a clear way to manage longer-term projects and ideas for the future (I have far too many ideas that don't see it to fruition!). This kind of capture, categorization, and execution is precisely what GTD focuses on, so I hope to continue layering on pieces of that system and incrementally improving my system for managing things that aren't discrete tasks. Some things I've done along those lines are:
 
-While I absolutely love my Bullet Journal so far, I've found that one of the missing pieces in the "classic" system is a clear way to manage longer-term projects and ideas for the future (I have far too many ideas that don't see it to fruition!). This kind of capture, categorization, and execution is precisely what GTD focuses on, so I hope to continue layering on pieces of that system and incrementally improving my system for managing things that aren't discrete tasks. Some things I've tried that have been successful are:
-
-- Writing out a targeted Brain Dump of web performance work-related ideas and projects, then transferring them to a digital document with more detailed notes, categorization by type of change, and a rough t-shirt sizing. As we spin up a new web performance team, my hope is that this list will form the basis for that team's roadmap (and close A TON of open loops in my brain!).
+- Writing out a targeted Brain Dump of web performance work-related ideas and projects, then transferring them to a digital document where I added more detailed notes, categorized each item, and estimated a rough t-shirt sizing for the level of effort. This list will form the basis for a new team's roadmap, and closed A TON of open loops in my brain!
 
 - Taking projects from my Brain Dump list and categorizing them in a Project Categorization List. I divided a page into sections for Home, Career, and Work, then migrated items into the appropriate category. Then, I annotated each one according to it's status - In progress, Next up, Someday/Maybe and Delegate it. Next, I'm planning to take each of these projects and add a page to the end of my Journal for each one that is in progress/next up, then use the guidance of the GTD system to list out discrete "Next Actions" that will move these projects forward.
+
+# Go forth and bullet journal!
 
 If you are a veteran Bullet Journaller and have thoughts on how to better manage my neverending lists of ideas and projects, I would love to hear them! Reach out on Twitter @ksylor.
 

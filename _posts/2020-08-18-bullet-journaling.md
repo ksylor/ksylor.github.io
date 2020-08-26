@@ -30,22 +30,34 @@ This is an extension of the core system that I found in my searches online, and 
 
 [photo of very messy key page]
 
-Rapid logging symbols:
+**Rapid logging symbols:**
+
 (dot) = task
+
 (dash) = note
+
 (circle) = event
 
-Task states:
-(x) = completed task
-(gt) = migrated
-(lt) = scheduled
+**Task states:**
+
+(x) = completed
+
+(&gt;) = migrated
+
+(&lt;) = scheduled
+
 (strikethrough) = irrelevant
+
 (caret down) = delegated
 
-Signifiers:
+**Signifiers:**
+
 (clock) = due date
+
 (asterik) = important
+
 (question) = needs decision
+
 (lighbulb) = idea
 
 I also used this page to note the number of rows and columns in the grid to help me layout pages evenly. 
@@ -116,12 +128,10 @@ This all sounds like a lot of work, but I've found that as it becomes more and m
 As I go through the work week, my daily tasks tend to be a mix of 85/15 work/home (I put everything non-work into the "home" bucket). As I mentioned above, I split out my Monthly Task list by context as a way to keep things organized. As home tasks come up throughout the week, I move them to my Monthly Tasks list the same as any work-related to-dos. On weekends, my focus changes 100% to non-work tasks, so on Friday night or Saturday morning, I will write out a combined Daily Log for Sat/Sun, pull a list of tasks, then mark them off and migrate them the same as during the work week. I've found with the Bullet Journal that I feel like my life is more under control because everything is in one place (One notebook to rule them all), so I try my best to continue to carry my journal everywhere and write everything down, even on the weekends.
 
 5. **Monthly Migration & Setup**
-On the last day of the month, I set aside some extra time to set up a new Monthly Log and Monthly Task list for the following month, then I follow a process very similar to the Daily Migration above, just at the level of the whole month. First, I copy all of the entries for the new month from the Future Log into my Monthly Log. I also check my digital calendar for any important meetings, events or appointments and add them to the Monthly Log. Then, I will go through and reevaluate my Monthly Task list to migrate those forward or move to the Future Log for another month.
+On the last day of the month, I set aside some extra time to set up a new Monthly Log and Monthly Task list for the following month, then I follow pretty much the same process as in a Daily Migration, just at the level of the whole month. First, I copy all of the entries for the new month from the Future Log into my Monthly Log. I also check my digital calendar for any important meetings, events or appointments and add them to the Monthly Log. Then, I will go through and reevaluate my Monthly Task list to migrate those forward, or move to the Future Log for another month.
 
 6. **Navigating with Bookmarks**
-I started out with one bookmark that I used to mark my current page. That worked great for the first month, but when I got to the second month and the monthly log was harder to find, I added a second bookmark so that I could just leave one on the Monthly Log for the current month, and use the other to mark my current page. So, I'd recommend if you have 0-1 built-in bookmarks that you superglue some ribbons to the cover/spine or use sticky note(s) to mark both pages.  
-
-7. **Keeping it going**
+I started out with one bookmark that I used to mark my current page. That worked great for the first month! But when I got to the second month the monthly log was harder to find, so I added a second bookmark to leave in the Monthly Log for the current month, and continue to use the other to mark my current page. So, I'd recommend if you have 0-1 built-in bookmarks that you superglue some ribbons to the cover/spine or use sticky note(s) to mark both pages. The "official" Bullet Journal has three bookmarks(!!!) but I haven't gotten that far yet.   
 
 # What I'm still figuring out
 While I absolutely love my Bullet Journal so far, I've found that one of the missing pieces in the "classic" system is a clear way to manage longer-term projects and ideas for the future (I have far too many ideas that don't see it to fruition!). This kind of capture, categorization, and execution is precisely what GTD focuses on, so I hope to continue layering on pieces of that system and incrementally improving my system for managing things that aren't discrete tasks. Some things I've done along those lines are:

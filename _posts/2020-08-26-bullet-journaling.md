@@ -3,11 +3,11 @@ layout: post
 title: Bullet journalling for software engineers (and other not-necessarily-artistic people)
 ---
 
-If you're like me, you probably have the wrong idea about Bullet Journals. For the last several years I've come across dozens of perfectly-styled photos of beautifully illustrated motivational phrases handwritten in the pages in a fancy leather-bound notebook, with artist-grade pens and markers or highlighters placed ever so slightly off-parallel to give that perfect "I just happened to take a picture of my desk in it's natural state" vibe. Based on these images, I thought Bullet Journals were pretty and fluffy - good for artists, but not particularly applicable to my life as a software engineer. However, after doing some research and  actually using the system myself for about a month now, I can unequivocally say that the perception I had was totally wrong. 
+If you frequent Pinterest and Instagram like I do, then you probably have the wrong idea about Bullet Journals. For the last several years I've come across dozens of perfectly-styled photos of beautifully illustrated motivational phrases handwritten in the pages in a fancy leather-bound notebook, with artist-grade pens and markers or highlighters placed ever so slightly off-parallel to give that perfect "I just happened to take a picture of my desk in it's natural state" vibe. Based on these images, I thought Bullet Journals were pretty and fluffy - good for artists, but not particularly applicable to my life as a software engineer. However, after doing some research and  actually using the system myself for about a month now, I can unequivocally say that the perception I had was totally wrong. 
 
 A Bullet Journal _isn't_ a perfectly-designed show-off piece just for influencers and lifestyle bloggers; it _is_ a proven organizational system based on a simple note-taking practice which anyone can use to help tame the chaos of their life and work. I've been using a Bullet Journal for a little over a month now, and it's been incredibly helpful for me to get on top of my endless to-do list and ensure that I'm doing the right things at the right time, and, most importantly, I feel like I'm more in control of the chaos. I love my Bullet Journal, and if you are anything like me, I think you will love it too!
 
-![A very slightly styled photo of my journal on my desk in it's natural state](../assets/bulletjournal/journal-open.jpeg)
+![A very slightly styled photo of my journal on my desk in it's natural state](/assets/bulletjournal/journal-open.jpeg)
 
 ## Why Bullet Journalling?
 

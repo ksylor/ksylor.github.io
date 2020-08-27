@@ -9,7 +9,7 @@ A Bullet Journal _isn't_ a perfectly-designed show-off piece just for influencer
 
 ![A very slightly styled photo of my journal on my desk in it's natural state](/assets/bulletjournal/journal-open.jpeg)
 
-## Why Bullet Journalling?
+# Why Bullet Journalling?
 
 The biggest reason I decided to give Bullet Journalling a try was because of how well it seemed to work for other people with ADHD. For _decades_ I saw my inability to "just get organized" as a personal failure, it seemed so easy for other people, why not me? Since being diagnosed with ADHD as an adult, I've learned to accept that it's not that I'm lazy or lacking willpower, my brain just works differently! Ryder Carroll has written about [how he created the Bullet Journal system to help manage his ADHD brain](https://humanparts.medium.com/inside-adhd-55b9618cd708) - he eloquently calls it "catching the rain".
 
@@ -27,7 +27,7 @@ This blog post outlines how I think about and use my Bullet Journal, and hopeful
 
 Around the same time that I started bullet journalling, I had just started reading the book _Getting Things Done_ by David Allen, and I've been taking pieces of the GTD productivity system and applying it to my Bullet Journal practice. I haven't finished reading the book (it's a bit of a slog before you get to the meat of the system TBQH), but I've noted below where I've found that layering on pieces of the GTD system have helped to refine or improve pieces of my Bullet Journal. You can visit the [GTD Website](https://gettingthingsdone.com/) if you are interested in learning more.
 
-## Getting started
+# Getting started
 
 The easiest way to get started is to just grab a notebook and do it! You don't need artistic talent and you don't have to be perfect - you can cross things out, cut out pages and re-do them, try new things, figure out what works for you (and what doesn't), and continually refine your process. As you will see, my usage changed even during this first month, and it will continue to change.
 

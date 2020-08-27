@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bullet journalling for software engineers (and other not-necessarily-artistic people)
---
+---
 
 If you're like me, you probably have the wrong idea about Bullet Journals. For the last several years I've come across dozens of perfectly-styled photos of beautifully illustrated motivational phrases handwritten in the pages in a fancy leather-bound notebook, with artist-grade pens and markers or highlighters placed ever so slightly off-parallel to give that perfect "I just happened to take a picture of my desk in it's natural state" vibe. Based on these images, I thought Bullet Journals were pretty and fluffy - good for artists, but not particularly applicable to my life as a software engineer. However, after doing some research and  actually using the system myself for about a month now, I can unequivocally say that the perception I had was totally wrong. 
 

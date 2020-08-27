@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bullet journalling for software engineers (and other not-necessarily-artistic people)
+title: Bullet journalling for software engineers <br/>(and other not-necessarily-artistic people)
 ---
 
 If you frequent Pinterest and Instagram like I do, then you probably have the wrong idea about Bullet Journals. For the last several years I've come across dozens of perfectly-styled photos of beautifully illustrated motivational phrases handwritten in the pages in a fancy leather-bound notebook, with artist-grade pens and markers or highlighters placed ever so slightly off-parallel to give that perfect "I just happened to take a picture of my desk in it's natural state" vibe. Based on these images, I thought Bullet Journals were pretty and fluffy - good for artists, but not particularly applicable to my life as a software engineer. However, after doing some research and actually using the system myself, I can unequivocally say that the perception I had of Bullet Journals was totally wrong. 
@@ -26,6 +26,8 @@ This blog post outlines how I think about and use my Bullet Journal, and hopeful
 ## Bullet Journal + Getting Things Done = extra success?
 
 Around the same time that I started bullet journalling, I had just started reading the book _Getting Things Done_ by David Allen, and I've been taking pieces of the GTD productivity system and applying it to my Bullet Journal practice. I haven't finished reading the book (it's a bit of a slog before you get to the meat of the system TBQH), but I've noted below where I've found that layering on pieces of the GTD system have helped to refine or improve pieces of my Bullet Journal. You can visit the [GTD Website](https://gettingthingsdone.com/) if you are interested in learning more.
+
+![Bullet Journal + GTD](/assets/bulletjournal/journal-plus-gtd.jpeg)
 
 # Getting started
 

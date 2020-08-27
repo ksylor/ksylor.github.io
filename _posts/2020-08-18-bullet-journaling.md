@@ -6,15 +6,15 @@ title: Bullet journalling for software engineers (and other not-necessarily-arti
 
 If you, like me, frequent Pinterest and Instagram, you've probably got the wrong idea about Bullet Journals. For the last several years I've come across dozens of perfectly-styled photos of beautifully illustrated motivational phrases handwritten in the pages in a fancy leather-bound notebook, with artist-grade pens and markers or highlighters placed ever so slightly off-parallel to give that perfect "I just happened to take a picture of my desk in it's natural state" vibe. Based on these images, I thought Bullet Journals were pretty and fluffy - good for artists, but not particularly applicable to my life as a software engineer. However, after doing some research and  actually using the system myself for about a month now, I can unequivocally say that the perception I had was totally wrong. 
 
-A Bullet Journal _isn't_ a perfectly-designed show-off piece just for influencers and lifestyle bloggers; it _is_ a proven organizational system based on a simple note-taking practice which anyone can use to help tame the chaos of their life and work. I've been using a Bullet Journal for a little over a month now, and it's been incredibly helpful for me to get on top of my endless to-do list and ensure that I'm doing the right things at the right time, and, most importantly, I feel like I'm more in control of the chaos. I love my Bullet Journal, and if you are anything like me, I think you will love it too!
+![A totally not-styled photo of my journal on my desk in it's natural state](../assets/bulletjournal/journal-open.jpeg)
 
-[picture of my journal?]
+A Bullet Journal _isn't_ a perfectly-designed show-off piece just for influencers and lifestyle bloggers; it _is_ a proven organizational system based on a simple note-taking practice which anyone can use to help tame the chaos of their life and work. I've been using a Bullet Journal for a little over a month now, and it's been incredibly helpful for me to get on top of my endless to-do list and ensure that I'm doing the right things at the right time, and, most importantly, I feel like I'm more in control of the chaos. I love my Bullet Journal, and if you are anything like me, I think you will love it too!
 
 ## Why Bullet Journalling?
 
 The biggest reason why I decided to give Bullet Journalling a try was because of how well it seemed to work for people with ADHD. For _decades_ I saw my inability to "just get organized" as a personal failure, it seemed so easy for other people, why not me? Since being diagnosed with ADHD as an adult, I've learned to accept that it's not that I'm lazy or lacking willpower, my brain just works differently! Ryder Carroll [wrote about how he created the Bullet Journal system](https://humanparts.medium.com/inside-adhd-55b9618cd708) largely to help manage his ADHD brain - he eloquently calls it "catching the rain". 
 
-The second reason that I chose Bullet Journaling is that it is a _paper-based_ system. Over the years, I've tried all the hot new digital productivity apps - Evernote, Clear, Todoist, Notion, Trello - but I honestly never managed to use any of them for more than a day or two! Looking back, digital methods never worked for me because I have been and always will be an analog note-taker. I have notebooks going back many years that are chock full of notes from most of my meetings, conferences, brainstorming sessions, to do lists, random thoughts, etc. Turns out that researchers believe handwriting helps aid in memory and retention, so all those years I was unknowingly helping my ADHD brain overcome it's difficulty with short-term memory! When I started looking for help to tame my seemingly neverending to-do list, I knew I had to find something that worked with my analog nature, not against it.
+The second reason that I chose Bullet Journaling is that it is a _paper-based_ system. Over the years, I've tried all the hot new digital productivity apps - Evernote, Clear, Todoist, Notion, Trello - but despite my good intentions, I never managed to use any of them for more than a day or two. Looking back, digital methods never worked for me because I have been and always will be an analog note-taker. I have notebooks going back many years that are chock full of notes from most of my meetings, conferences, brainstorming sessions, to do lists, random thoughts, etc. Turns out that researchers believe handwriting helps aid in memory and retention, so all those years I was unknowingly helping my ADHD brain overcome it's difficulty with short-term memory! When I started looking for help to tame my seemingly neverending to-do list, I knew I had to find something that worked with my analog nature, not against it.
 
 ## The core system
 
@@ -43,7 +43,7 @@ Any blank notebook that you have on hand will do! It's helpful if the notebook i
 
 When I started, I looked through my treasure trove of conference swag and chose an A5 sized notebook from Smashing Conference that has pre-numbered, dotted pages and a single ribbon bookmark. As you can see from the photos, I made a few simple modifications over the course of the month - I superglued a second ribbon inside the back cover, and I used some wide elastic leftover from a tutu-making project to sew a pen holder loop and superglued that in too. 
 
-[photo of notebook]
+![my bullet journal with hacks](../assets/bulletjournal/cover-view-square.jpeg)
 
 For writing implements, any pen or pencil is great! I started out with a blue pen, misplaced that, and switched to black. After a week or two I added in some highlighters to help with visual "pop" and easier scannability, but they definitely are not required.
 </li> 
@@ -57,8 +57,7 @@ I lucked out and had a pre-numbered notebook. If you aren't so lucky, number eac
 
 This is an extension of the core system that I found in my searches online, and I think it's super helpful for a beginner. At base, I use the classic "Rapid Logging" symbols from the original system, and I've added (and subtracted) a few of my own.  As you can see from all the scribbles and crossing out, the symbols I've used have changed over time. Feel free to use mine, or create your own based on your needs.
 
-[photo of very messy key page]
-
+![my very messy and heavily crossed out key page](../assets/bulletjournal/key-portrait.jpeg)
 
 **Rapid logging symbols:**
 <br/>(&bull;) = task
@@ -83,9 +82,9 @@ I also used this page to note the number of rows and columns in the grid to help
 
 <li><strong>Add an Index page</strong>
 
-The Index really ties the whole system together. You can add anything you want to the Index, so you can refer back to any information you need, and _nothing gets lost_, brilliant! Add the title "Index" to the top of the page, but leave the rest blank for now, we'll come back and fill it in in the next steps. Skip the next page or two to leave space for your index to grow.
+The Index really ties the whole joutnal together. You can add anything you want to the Index, so you can refer back to any information you need, and _nothing gets lost_, brilliant! Add the title "Index" to the top of the page, but leave the rest blank for now, we'll come back and fill it in in the next steps. Skip the next page or two to leave space for your index to grow.
 
-[photo of index page]
+![index page](../assets/bulletjournal/index-portrait.jpeg)
 
 </li>
 
@@ -93,7 +92,7 @@ The Index really ties the whole system together. You can add anything you want t
 
 The Future Log is a simplified calendar view of the entire year. Add a block for each month, starting with *next* month (I didn't realize this when I filled out mine, and added the current month but didn't actually need it). Because I am a perfectionist, I counted the number of horizontal rows per page and divided that by three to have three months per page, which took up a total of 4 pages. Flip back to your Index and add an entry for your Future Log (e.g. "Future log: 5-8"). 
 
-[photo of future log]
+![See into the future log](../assets/bulletjournal/future-log.jpeg)
 
 The future log is the place to note events and commitments that are happening or need to happen in a specific month. I have my digital calendar where I keep track of my detailed day-to-day schedule of work meetings and personal appointments, so I don't use the future log for *everything*. David Allen gives a great bit of advice in GTD that you should only putting things in your calendar for the month that you absolutely have to do during that month. So, I only add stuff with a specific date component: deadlines, reminders to follow up with someone, upcoming conference talks, vacations, etc. 
 
@@ -106,18 +105,16 @@ Remember how we skipped this month in the future log? Well, that's because we ar
 
 Then, in the empty space below I added the most important but not date-reliant tasks to finish for the month. But, to be honest I lose track of those tasks because they aren't on my Monthly Task list (see step 6 below), so next month I will leave that off. I also added a mini calendar by week, based on some designs in my Pinterest feed, but eh, it doesn't really add anything to the original layout. 
 
-[photo of monthly log july/august]
+![my second monthly log iteration](../assets/bulletjournal/monthly-spread.jpeg)
 
 Don't forget to add this month as an entry in your index!
 </li>
 
 <li><strong>Add a Monthly Tasks page for this month</strong>
 
-I originally had two pages, one for work tasks and one for home/personal tasks, but it was weirdly _too much room_ because I ended up adding a lot of ideas and tasks that I didn't get to, which was disheartening when it was time to review my task list before the next month. So, the second month, I slimmed this down to a single page split it in half between work and home. As part of adding more GTD thinking to my approach, I'm trying to only add things to this list if they are a priority or if I absolutely _need_ to get these things done this month.
+I originally had two pages, one for work tasks and one for home/personal tasks, but it was weirdly _too much room_ because I ended up adding a lot of ideas and tasks that I didn't get to, which was disheartening when it was time to review my task list before the next month. So, the second month, I slimmed this down to a single page split it in half between work and home (as seen in the photo above). As part of adding more GTD thinking to my approach, I'm trying to only add things to this list if they are a priority or if I absolutely _need_ to get these things done this month.
 
 Add this page to your Index and learn from my trial & error - indent this entry (and everything else for the month) under the current month's entry so you can more quickly scan the list of pages in the Index. 
-
-[photo of monthly tasks page for august]
 </li>
 
 <li><strong>Start a Brain Dump page</strong> (This isn't "classic" bullet journal but something I added, so this step is optional)
@@ -129,7 +126,7 @@ The first major step of the GTD system is the "Capture" phase, where you take al
 
 This is the meat of the whole system and where you will use those symbols we definined in the key page. Start each day with a header - I usually do it in the format of `AUG 18 - TUES`. I tried some different ways to visually highlight the day header, and I've landed on drawing a simple horizontal line with a little strip of pink highlighter on top, because the color helps to visually distinguish the beginning of a new day. Don't pre-generate your next Daily Logs for future days, wait until you've completed the day before you draw a line & start the next day.
 
-[photo of daily log page]
+![daily log](../assets/bulletjournal/daily-spread-portrait.jpeg)
 
 Start your log for today by retroactively logging some events (circles) and/or tasks (dots) that you've completed and x-ing them out to give yourself a nice feeling of accomplishment - if you can't think of anything you've done today, may I remind you that you started a bullet journal! Then add any uncompleted tasks or events still to happen. Use signifiers where appropriate to add extra meaning to each log item.
 </li>
@@ -146,14 +143,18 @@ The foundation of the Bullet Journal process is really to write everything down.
 
 At first, getting the hang of the Daily Log was the biggest challenge for me, and I definitely went through some fits and starts while I figured out how to effectively use it. The system I've landed on to organize my Daily Log is to split out my pre-planned/known events and tasks at the top of the section using ALL CAPS so that it looks cleaner, fits on one line, and stands out visually. The signifiers really come in handy here to help me decide what tasks are the most important or time-sensitive tasks to complete. 
 
-Then, I will switch to note-taking mode, where I'm not always "rapid logging" everything, but combining bullets and longer-form notes in a looser way. As I said before, I've been a note taker for a very long time, and I felt too constrained by the "rapid log" format, but you should try it and see if it works for you! If I'm taking notes from a meeting I will write out a sub-header and nest my longer-form notes underneath that as I always have, but un-nest any new tasks that might arise from the meeting so I can scan for them later. In cases where I've captured enough important notes that I want to be able to refer back to that meeting, I frequently add the header & page number as a new "Collection" entry in my index, which brings me to the next step in the process.  
+![mix and match pages as needed](../assets/bulletjournal/daily-spread-landscape.jpeg) 
+
+Then, I will switch to note-taking mode, where I'm not always "rapid logging" everything, but combining bullets and longer-form notes in a looser way. As I said before, I've been a note taker for a very long time, and I felt too constrained by the "rapid log" format, but you should try it and see if it works for you! If I'm taking notes from a meeting I will write out a sub-header and nest my longer-form notes underneath that as I always have, but un-nest any new tasks that might arise from the meeting so I can scan for them during my daily migration (see step 3). 
+
+In cases where I've captured enough important thoughts or meeting notes that I want to be able to refer back to them, I add the header & page number as a new "Collection" entry in my index, which brings me to the next step in the process. 
 </li>
 
 <li><strong>Collections</strong>
 
 Collections are another part of bullet journaling that can feel intimidating, especially if you spend too much time looking on Instagram & Pinterest! I've found it helpful to think of a Collection as just a page full of stuff that you want to reference back to using the Index. So, it can be something specific - a brain dump, a project plan, a list of books you want to read - or something organic like notes from a meeting that you want to be able to refer back to. The notes that formed the basis of this blog post started out as a collection in my Bullet Journal!
 
-[notes page picture]
+![notes page picture](../assets/bulletjournal/blog-post-notes.jpeg)
 </li>
 
 <li><strong>Daily Migration</strong>

@@ -178,6 +178,7 @@ While I absolutely love my Bullet Journal so far, I've found that one of the mis
 Hopefully all of this gave you a better sense of what a Bullet Journal is, and cleared up any misconceptions about what it isn't. If you found this post useful to help you get started, or if are a veteran Bullet Journaller and have advice on how to better manage longer-term ideas and projects, I would love to hear from you! You can reach me on Twitter @ksylor.
 
 ### Links & Resources
+
 [BulletJournal.com](https://bulletjournal.com)
 
 [GettingThingsDone.com](https://gettingthingsdone.com)

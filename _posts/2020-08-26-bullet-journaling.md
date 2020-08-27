@@ -110,15 +110,13 @@ Add this page to your Index and learn from my trial & error - indent this entry 
 
 The first major step of the GTD system is the "Capture" phase, where you take all of the things and get them into a single location - something that the author of GTD calls "closing the open loops". If you have endless tasks and projects swirling around your brain, then you are expending valuable mental energy keeping those "loops" open. Writing things down and organizing them in a system that you trust allows you to "close the loop", stop worrying about that task, and use your brainpower for actually completing tasks. 
 
-![My first brain dump](/assets/bulletjournal/brain-dump.jpeg)
-
 To that end, I started my Journal by filling out a Brain Dump page with all of the random things that were swirling around in my head in an unfiltered stream of conciousness list that I could come back to and "Process" later on in the next phase of GTD. Having this list was really helpful for filling out my initial Monthly Task list. And of course, add this page to your Index! 
 
-### 9. Start your first Daily Log</strong>
+### 9. Start your first Daily Log
 
 This is the meat of the whole system and where you will use those symbols we definined in the key page. Start each day with a header - I usually do it in the format of `AUG 4 - TUES`. I tried some different ways to visually highlight the day header, and I've landed on drawing a simple horizontal line with a little strip of pink highlighter on top, because the color helps to visually distinguish the beginning of a new day. 
 
-![daily log](/assets/bulletjournal/daily-spread-portrait.jpeg)
+![daily log](/assets/bulletjournal/daily-spread-landscape.jpeg)
 
 Start your log for today by retroactively logging some events (circles) and/or tasks (dots) that you've completed and x-ing them out to give yourself a nice feeling of accomplishment - if you can't think of anything you've done today, may I remind you that you started a bullet journal! Then add any uncompleted tasks or events still to happen. Use signifiers where appropriate to add extra meaning to each log item.
 
@@ -134,8 +132,6 @@ The foundation of the Bullet Journal process is really to write everything down.
 
 At first, getting the hang of the Daily Log was the biggest challenge for me, and I definitely went through some fits and starts while I figured out how to effectively use it. The system I've landed on to organize my Daily Log is to split out my pre-planned/known events and tasks at the top of the section using ALL CAPS so that it looks cleaner, fits on one line, and stands out visually. The signifiers really come in handy here to help me decide what tasks are the most important or time-sensitive tasks to complete. 
 
-![mix and match pages as needed](/assets/bulletjournal/daily-spread-landscape.jpeg) 
-
 Then, I will switch to note-taking mode, where I'm not always "rapid logging" everything, but combining bullets and longer-form notes in a looser way. As I said before, I've been a note taker for a very long time, and I felt too constrained by the "rapid log" format, but you should try it and see if it works for you! 
 
 If I'm taking notes from a meeting I will write out a sub-header and nest my longer-form notes underneath that as I always have, but un-nest any new tasks that might arise from the meeting so I can scan for them during my daily migration (see step 3). In cases where I've captured enough important meeting notes that I want to be able to refer back to them, I add the header & page number as a new "Collection" entry in my index, which brings me to the next step in the process. 
@@ -144,7 +140,7 @@ If I'm taking notes from a meeting I will write out a sub-header and nest my lon
 
 Collections are another part of bullet journaling that can feel intimidating, especially if you spend too much time looking on Instagram & Pinterest! I've found it helpful to think of a Collection as just a page full of stuff that you want to reference back to using the Index. So, it can be something specific - a brain dump, a project plan, a list of books you want to read - or something organic like notes from a meeting that you want to be able to refer back to. The notes that formed the basis of this blog post started out as a collection in my Bullet Journal!
 
-![notes page picture](/assets/bulletjournal/blog-post-notes.jpeg)
+![My notes for this blog post about bullet journals, as written in my bullet journal. Bujo-ception!](/assets/bulletjournal/blog-post-notes.jpeg)
 
 ### 3. Daily Migration
 
@@ -171,14 +167,7 @@ I started out with one bookmark that I used to mark my current page. That worked
 
 ## What I'm still figuring out
 
-While I absolutely love my Bullet Journal so far, I've found that one of the missing pieces in the "classic" system is a clear way to manage longer-term projects and ideas for the future (I have far too many ideas that don't see it to fruition!). Thankfully, this kind of capture, categorization, and execution is precisely what GTD focuses on, so I plan to continue layering on pieces of that system and incrementally improving my system for managing things that aren't discrete tasks. 
-
-I started out by taking the projects from my Brain Dump list and categorizing them in a Project Categorization List. I divided a page into sections for Home, Career, and Work, then migrated items into the appropriate category. Then, I annotated each one according to it's status - In progress, Next up, Someday/Maybe and Delegate it. 
-
-![Project categorization](/assets/bulletjournal/project-categorization.jpeg)
-
-Next, I'm planning to add a new collection to my Journal for each project that is either in progress or next up, then use the guidance of the GTD system to list out discrete "Next Actions" that will move these projects forward.
-
+While I absolutely love my Bullet Journal so far, I've found that one of the missing pieces in the "classic" system is a clear way to manage longer-term projects and ideas for the future (I have far too many ideas that don't see it to fruition!). Thankfully, this kind of capture, categorization, and execution is precisely what GTD focuses on, so I plan to continue layering on pieces of the GTD system and incrementally improving my Bullet Journal practice for managing things that aren't discrete tasks. 
 
 ## Give Bullet Journaling a try!
 

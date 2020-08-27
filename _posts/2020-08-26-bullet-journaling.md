@@ -42,7 +42,7 @@ Any blank notebook that you have on hand will do! It's helpful if the notebook i
 
 When I started, I looked through my treasure trove of conference swag and chose an A5 sized notebook from Smashing Conference that has pre-numbered, dotted pages and a single ribbon bookmark. As you can see from the photos, I made a few simple modifications over the course of the month - I superglued a second ribbon inside the back cover, and I used some wide elastic leftover from a tutu-making project to sew a pen holder loop and superglued that in too. 
 
-![my bullet journal with hacks](../assets/bulletjournal/cover-view-square.jpeg)
+![my bullet journal with hacks](/assets/bulletjournal/cover-view-square.jpeg)
 
 For writing implements, any pen or pencil is great! I started out with a blue pen, misplaced that, and switched to black. After a week or two I added in some highlighters to help with visual "pop" and easier scannability, but they definitely are not required.
 </li> 
@@ -56,7 +56,7 @@ I lucked out and had a pre-numbered notebook. If you aren't so lucky, number eac
 
 This is an extension of the core system that I found in my searches online, and I think it's super helpful for a beginner. At base, I use the classic "Rapid Logging" symbols from the original system, and I've added (and subtracted) a few of my own.  As you can see from all the scribbles and crossing out, the symbols I've used have changed over time. Feel free to use mine, or create your own based on your needs.
 
-![my very messy and heavily crossed out key page plus index](../assets/bulletjournal/key-and-index.jpeg)
+![my very messy and heavily crossed out key page plus index](/assets/bulletjournal/key-and-index.jpeg)
 
 **Rapid logging symbols:**
 <br/>(&bull;) = task
@@ -88,7 +88,7 @@ The Index really ties the whole joutnal together. You can add anything you want 
 
 The Future Log is a simplified calendar view of the entire year. Add a block for each month, starting with *next* month (I didn't realize this when I filled out mine, and added the current month but didn't actually need it). Because I am a perfectionist, I counted the number of horizontal rows per page and divided that by three to have three months per page, which took up a total of 4 pages. Flip back to your Index and add an entry for your Future Log (e.g. "Future log: 5-8"). 
 
-![See into the future log](../assets/bulletjournal/future-log.jpeg)
+![See into the future log](/assets/bulletjournal/future-log.jpeg)
 
 The future log is the place to note events and commitments that are happening or need to happen in a specific month. I have my digital calendar where I keep track of my detailed day-to-day schedule of work meetings and personal appointments, so I don't use the future log for *everything*. David Allen gives a great bit of advice in GTD that you should only putting things in your calendar for the month that you absolutely have to do during that month. So, I only add stuff with a specific date component: deadlines, reminders to follow up with someone, upcoming conference talks, vacations, etc. 
 
@@ -101,7 +101,7 @@ Remember how we skipped this month in the future log? Well, that's because we ar
 
 Then, in the empty space below I added the most important but not date-reliant tasks to finish for the month. But, to be honest I lose track of those tasks because they aren't on my Monthly Task list (see step 6 below), so next month I will leave that off. I also added a mini calendar by week, based on some designs in my Pinterest feed, but eh, it doesn't really add anything to the original layout. 
 
-![my second monthly log iteration](../assets/bulletjournal/monthly-spread.jpeg)
+![my second monthly log iteration](/assets/bulletjournal/monthly-spread.jpeg)
 
 Don't forget to add this month as an entry in your index!
 </li>
@@ -117,7 +117,7 @@ Add this page to your Index and learn from my trial & error - indent this entry 
 
 The first major step of the GTD system is the "Capture" phase, where you take all of the things and get them into a single location - something that the author of GTD calls "closing the open loops". If you have endless tasks and projects swirling around your brain, then you are expending valuable mental energy keeping those "loops" open. Writing things down and organizing them in a system that you trust allows you to "close the loop", stop worrying about that task, and use your brainpower for actually completing tasks. 
 
-![My first brain dump](../assets/bulletjournal/brain-dump.jpeg)
+![My first brain dump](/assets/bulletjournal/brain-dump.jpeg)
 
 To that end, I started my Journal by filling out a Brain Dump page with all of the random things that were swirling around in my head in an unfiltered stream of conciousness list that I could come back to and "Process" later on in the next phase of GTD. Having this list was really helpful for filling out my initial Monthly Task list. And of course, add this page to your Index! 
 </li>
@@ -126,7 +126,7 @@ To that end, I started my Journal by filling out a Brain Dump page with all of t
 
 This is the meat of the whole system and where you will use those symbols we definined in the key page. Start each day with a header - I usually do it in the format of `AUG 4 - TUES`. I tried some different ways to visually highlight the day header, and I've landed on drawing a simple horizontal line with a little strip of pink highlighter on top, because the color helps to visually distinguish the beginning of a new day. 
 
-![daily log](../assets/bulletjournal/daily-spread-portrait.jpeg)
+![daily log](/assets/bulletjournal/daily-spread-portrait.jpeg)
 
 Start your log for today by retroactively logging some events (circles) and/or tasks (dots) that you've completed and x-ing them out to give yourself a nice feeling of accomplishment - if you can't think of anything you've done today, may I remind you that you started a bullet journal! Then add any uncompleted tasks or events still to happen. Use signifiers where appropriate to add extra meaning to each log item.
 
@@ -145,7 +145,7 @@ The foundation of the Bullet Journal process is really to write everything down.
 
 At first, getting the hang of the Daily Log was the biggest challenge for me, and I definitely went through some fits and starts while I figured out how to effectively use it. The system I've landed on to organize my Daily Log is to split out my pre-planned/known events and tasks at the top of the section using ALL CAPS so that it looks cleaner, fits on one line, and stands out visually. The signifiers really come in handy here to help me decide what tasks are the most important or time-sensitive tasks to complete. 
 
-![mix and match pages as needed](../assets/bulletjournal/daily-spread-landscape.jpeg) 
+![mix and match pages as needed](/assets/bulletjournal/daily-spread-landscape.jpeg) 
 
 Then, I will switch to note-taking mode, where I'm not always "rapid logging" everything, but combining bullets and longer-form notes in a looser way. As I said before, I've been a note taker for a very long time, and I felt too constrained by the "rapid log" format, but you should try it and see if it works for you! 
 
@@ -156,7 +156,7 @@ If I'm taking notes from a meeting I will write out a sub-header and nest my lon
 
 Collections are another part of bullet journaling that can feel intimidating, especially if you spend too much time looking on Instagram & Pinterest! I've found it helpful to think of a Collection as just a page full of stuff that you want to reference back to using the Index. So, it can be something specific - a brain dump, a project plan, a list of books you want to read - or something organic like notes from a meeting that you want to be able to refer back to. The notes that formed the basis of this blog post started out as a collection in my Bullet Journal!
 
-![notes page picture](../assets/bulletjournal/blog-post-notes.jpeg)
+![notes page picture](/assets/bulletjournal/blog-post-notes.jpeg)
 </li>
 
 <li><strong>Daily Migration</strong>
@@ -192,7 +192,7 @@ While I absolutely love my Bullet Journal so far, I've found that one of the mis
 
 I started out by taking the projects from my Brain Dump list and categorizing them in a Project Categorization List. I divided a page into sections for Home, Career, and Work, then migrated items into the appropriate category. Then, I annotated each one according to it's status - In progress, Next up, Someday/Maybe and Delegate it. 
 
-![Project categorization](../assets/bulletjournal/project-categorization.jpeg)
+![Project categorization](/assets/bulletjournal/project-categorization.jpeg)
 
 Next, I'm planning to add a new collection to my Journal for each project that is either in progress or next up, then use the guidance of the GTD system to list out discrete "Next Actions" that will move these projects forward.
 

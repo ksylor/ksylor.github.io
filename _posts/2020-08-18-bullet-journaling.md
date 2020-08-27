@@ -12,13 +12,13 @@ A Bullet Journal _isn't_ a perfectly-designed show-off piece just for influencer
 
 ## Why Bullet Journalling?
 
-The biggest reason why I decided to give Bullet Journalling a try was because of how well it seemed to work for people with ADHD. For _decades_ I saw my inability to "just get organized" as a personal failure, it seemed so easy for other people, why not me? Since being diagnosed with ADHD as an adult, I've learned to accept that it's not that I'm lazy or lacking willpower, my brain just works differently! Ryder Carroll [wrote about how he created the Bullet Journal system](https://humanparts.medium.com/inside-adhd-55b9618cd708) largely to help manage his ADHD brain - he eloquently calls it "catching the rain". 
+The biggest reason I decided to give Bullet Journalling a try was because of how well it seemed to work for other people with ADHD. For _decades_ I saw my inability to "just get organized" as a personal failure, it seemed so easy for other people, why not me? Since being diagnosed with ADHD as an adult, I've learned to accept that it's not that I'm lazy or lacking willpower, my brain just works differently! Ryder Carroll has written about [how he created the Bullet Journal system to help manage his ADHD brain](https://humanparts.medium.com/inside-adhd-55b9618cd708) - he eloquently calls it "catching the rain".
 
 The second reason that I chose Bullet Journaling is that it is a _paper-based_ system. Over the years, I've tried all the hot new digital productivity apps - Evernote, Clear, Todoist, Notion, Trello - but despite my good intentions, I never managed to use any of them for more than a day or two. Looking back, digital methods never worked for me because I have been and always will be an analog note-taker. I have notebooks going back many years that are chock full of notes from most of my meetings, conferences, brainstorming sessions, to do lists, random thoughts, etc. Turns out that researchers believe handwriting helps aid in memory and retention, so all those years I was unknowingly helping my ADHD brain overcome it's difficulty with short-term memory! When I started looking for help to tame my seemingly neverending to-do list, I knew I had to find something that worked with my analog nature, not against it.
 
 ## The core system
 
-The beauty of the Bullet Journal API is that it's completely flexible, but it's not totally structureless. The core Bullet Journal system uses just a notebook and pen or pencil (if you are more of a typed notes person, you can totally do bullet journaling digitally!), you then add your own, minimal organization. Unlike with a traditional paper planner, there is no guilt that you missed a day, or that you didn't fill out the calendar for that month, or that the kinds of notes you want to take don't fit into the structure of the page in front of you. But, there's _just enough_ structure so that you don't feel like you are endlessly circling without moving forward in tackling the items on your to-do list. And, the best part is that you can start on any day you like, no worries about buying a planner for the year and having to leave multiple days or months blank (yes the very thought of doing this causes me high anxiety!).
+The beauty of the Bullet Journal system is that it's completely flexible, but it's not totally structureless. The core Bullet Journal system uses just a notebook and pen or pencil (if you are more of a typed notes person, you can totally do bullet journaling digitally!), you then add your own, minimal organization. Unlike with a traditional paper planner, there is no guilt that you missed a day, or that you didn't fill out the calendar for that month, or that the kinds of notes you want to take don't fit into the structure of the page in front of you. But, there's _just enough_ structure so that you don't feel like you are endlessly circling without moving forward in tackling the items on your to-do list. And, the best part is that you can start on any day you like, no worries about buying a planner for the year and having to leave multiple days or months blank (yes the very thought of doing this causes me high anxiety!).
 
 The official [bulletjournal.com](https://bulletjournal.com) website has a great series of easy to follow tutorials and videos that lay out the basics of the system, but, in software terms, it's more like an API reference. What I really wanted to find was a cookbook that laid out the lifecycle and flow of the application. In my googling to try and learn more in detail about how to get started and actually use the system in real life, it was hard to find something that felt like it was speaking to my situation - I'm not planning out a month's worth of blog posts and social campaigns (although I probably should)! I'm wrangling multiple work-related projects, career commitments, and deadlines _plus_ a family stuck at home due to COVID. So, I cobbled together what I could from various sources around the internet, and dove in. This blog post outlines how I think about and use my Bullet Journal, and hopefully provides to you, dear reader, that cookbook that I was looking for and couldn't find. (To be fair, I've been told that the "official" book has more detail on the actual process, so it is next up on my reading list!)
 
@@ -119,7 +119,11 @@ Add this page to your Index and learn from my trial & error - indent this entry 
 
 <li><strong>Start a Brain Dump page</strong> (This isn't "classic" bullet journal but something I added, so this step is optional)
 
-The first major step of the GTD system is the "Capture" phase, where you take all of the things and get them into a single location - something that the author of GTD calls "closing the open loops". If you have endless tasks and projects swirling around your brain, then you are expending valuable mental energy keeping those "loops" open. Writing things down and organizing them in a system that you trust allows you to "close the loop", stop worrying about that task, and use your brainpower for actually completing tasks. To that end, I started my Journal by filling out a Brain Dump page with all of the random things that were swirling around in my head in an unfiltered stream of conciousness list that I could come back to and "Process" later on in the next phase of GTD. Having this list was really helpful for filling out my initial Monthly Task list. And of course, add this page to your Index! 
+The first major step of the GTD system is the "Capture" phase, where you take all of the things and get them into a single location - something that the author of GTD calls "closing the open loops". If you have endless tasks and projects swirling around your brain, then you are expending valuable mental energy keeping those "loops" open. Writing things down and organizing them in a system that you trust allows you to "close the loop", stop worrying about that task, and use your brainpower for actually completing tasks. 
+
+![My first brain dump](../assets/bulletjournal/brain-dump.jpeg)
+
+To that end, I started my Journal by filling out a Brain Dump page with all of the random things that were swirling around in my head in an unfiltered stream of conciousness list that I could come back to and "Process" later on in the next phase of GTD. Having this list was really helpful for filling out my initial Monthly Task list. And of course, add this page to your Index! 
 </li>
 
 <li><strong>Start your first Daily Log</strong>
@@ -178,7 +182,7 @@ As I mentioned above, to manage this combination I split out my Monthly Task lis
 On the last day of the month, I set aside some extra time to set up a new Monthly Log and Monthly Task list for the following month, then I follow pretty much the same process as in a Daily Migration, just at the level of the whole month. First, I copy all of the entries for the new month from the Future Log into my Monthly Log. I also check my digital calendar for any important meetings, events or appointments and add them to the Monthly Log. Then, I will go through and reevaluate my Monthly Task list to migrate those forward, or move to the Future Log for another month.
 </li>
 
-<li><strong>Navigating with Bookmarks</strong>
+<li><strong>A Note on Bookmarks</strong>
 
 I started out with one bookmark that I used to mark my current page. That worked great for the first month! But when I got to the second month the monthly log was harder to find, so I added a second bookmark to leave in the Monthly Log for the current month, and continue to use the other to mark my current page. So, I'd recommend if you have 0-1 built-in bookmarks that you superglue some ribbons to the cover/spine or use sticky note(s) to mark both pages. The "official" Bullet Journal has three bookmarks(!!!) but I haven't gotten that far yet.
 </li>
@@ -186,15 +190,13 @@ I started out with one bookmark that I used to mark my current page. That worked
 
 ## What I'm still figuring out
 
-While I absolutely love my Bullet Journal so far, I've found that one of the missing pieces in the "classic" system is a clear way to manage longer-term projects and ideas for the future (I have far too many ideas that don't see it to fruition!). This kind of capture, categorization, and execution is precisely what GTD focuses on, so I hope to continue layering on pieces of that system and incrementally improving my system for managing things that aren't discrete tasks. Some things I've tried along those lines are:
+While I absolutely love my Bullet Journal so far, I've found that one of the missing pieces in the "classic" system is a clear way to manage longer-term projects and ideas for the future (I have far too many ideas that don't see it to fruition!). Thankfully, this kind of capture, categorization, and execution is precisely what GTD focuses on, so I plan to continue layering on pieces of that system and incrementally improving my system for managing things that aren't discrete tasks. 
 
-- Writing out a targeted Brain Dump of web performance work-related ideas and projects, then transferring them to a digital document where I added more detailed notes, categorized each item, and estimated a rough t-shirt sizing for the level of effort. This list will form the basis for a new team's roadmap, and closed A TON of open loops in my brain!
+I started out by taking the projects from my Brain Dump list and categorizing them in a Project Categorization List. I divided a page into sections for Home, Career, and Work, then migrated items into the appropriate category. Then, I annotated each one according to it's status - In progress, Next up, Someday/Maybe and Delegate it. 
 
-- Taking projects from my Brain Dump list and categorizing them in a Project Categorization List. I divided a page into sections for Home, Career, and Work, then migrated items into the appropriate category. Then, I annotated each one according to it's status - In progress, Next up, Someday/Maybe and Delegate it. 
+![Project categorization](../assets/bulletjournal/project-categorization.jpeg)
 
-[picture of categorization?]
-
-Next, I'm planning to take each of these projects and add a page to the end of my Journal for each project that is in progress or next up, then use the guidance of the GTD system to list out discrete "Next Actions" that will move these projects forward. Because the system is flexible, It's easy to layer on more 
+Next, I'm planning to add a new collection to my Journal for each project that is either in progress or next up, then use the guidance of the GTD system to list out discrete "Next Actions" that will move these projects forward. 
 
 
 ## Go forth and bullet journal!
@@ -205,4 +207,4 @@ Hopefully all of this gave you a better sense of what a bullet journal is, and c
 BulletJournal.com
 GettingThingsDone.com
 
-https://www.nytimes.com/2018/12/27/books/how-to-bullet-journal.html
+[The Art of Bullet Journaling and the Improved To-Do List](https://www.nytimes.com/2018/12/27/books/how-to-bullet-journal.html)

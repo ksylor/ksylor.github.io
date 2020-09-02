@@ -183,6 +183,9 @@ Hopefully all of this gave you a better sense of what a Bullet Journal is, and c
 
 [GettingThingsDone.com](https://gettingthingsdone.com)
 
-[The Art of Bullet Journaling and the Improved To-Do List - New York Times](https://www.nytimes.com/2018/12/27/books/how-to-bullet-journal.html)
+[The Art of Bullet Journaling and the Improved To-Do List - Concepción de León, New York Times](https://www.nytimes.com/2018/12/27/books/how-to-bullet-journal.html)
 
-[How ADHD Helped Me Create the Bullet Journal Method](https://humanparts.medium.com/inside-adhd-55b9618cd708)
+[How ADHD Helped Me Create the Bullet Journal Method - Ryder Carroll](https://humanparts.medium.com/inside-adhd-55b9618cd708)
+
+[How to Manage ADHD with the Bullet Journal - Mindy Jones ](https://medium.com/@mindyjones/how-to-manage-adhd-with-the-bullet-journal-455384fdd503)
+
